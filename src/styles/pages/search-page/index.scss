@@ -1,0 +1,13 @@
+.search-page {
+    padding-bottom: 50px;
+    padding-left: calc((100% - 774px) / 2);
+    padding-right: calc((100% - 774px) / 2);
+    padding-top: 193px;
+
+    &__container {
+        box-sizing: border-box;
+        padding-left: 272px;
+        width: 774px;
+        min-height: calc(100vh - 243px);
+    }
+}
